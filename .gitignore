@@ -27,4 +27,4 @@ replay_pid*
 *.iml
 /.xcodemap/
 ./**/target/**
-./**/target/
+target/
